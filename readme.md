@@ -11,4 +11,4 @@
 
  📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/rahulavaghan)
 
-[![Rahul's stats](https://github-readme-stats.vercel.app/api?username=rahul-avaghan)](https://github.com/anuraghazra/github-readme-stats)
+[![Rahul's stats](https://github-readme-stats.vercel.app/api?username=rahul-avaghan)](https://www.linkedin.com/in/rahulavaghan)
