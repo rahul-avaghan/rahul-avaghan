@@ -1,7 +1,7 @@
 
 
-
-Here are some ideas to get you started:
+## Howdy 👋 👋
+## Rahul Avaghan
 
  🔭 I’m currently working on Nodejs, Typescript, React, Java
  
