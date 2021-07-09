@@ -5,7 +5,7 @@
 
  🔭 I’m currently working on Nodejs, Typescript, React, Java
  
- 🌱 I’m currently learning deep learning
+ 🌱 I’m currently learning `Deep learning`
  
  💬 Ask me about tech
 
