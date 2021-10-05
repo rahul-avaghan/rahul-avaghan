@@ -19,3 +19,6 @@
 
 [![Rahul's stats](https://github-readme-stats.vercel.app/api?username=rahul-avaghan&theme=dark&show_icons=true&count_private=true&include_all_commits=true&hide=totalPRs)](https://www.linkedin.com/in/rahulavaghan)
 
+Papers:
+https://link.springer.com/chapter/10.1007/978-3-319-16634-6_29
+
