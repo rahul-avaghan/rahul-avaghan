@@ -22,7 +22,7 @@
   </div>
   </div>
  
- ## languages and tools:  
+ ## Languages and Tools:  
 
 
 <code><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" /></code>
