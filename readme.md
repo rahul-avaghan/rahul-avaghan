@@ -35,8 +35,6 @@
   <code> <img  height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" /></code>
   <code> <img  height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" /></code>
   <code> <img  height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" /></code>
- 
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" />
 
 ## Views
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=rahul-avaghan)
