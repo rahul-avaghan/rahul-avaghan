@@ -11,7 +11,11 @@
  
  💬 Ask me about tech
  
- 👨🏽‍💻 Portfolio : <a href="https://rahulavaghan.vercel.app/" >https://rahulavaghan.vercel.app/</a>
+ 👨🏽‍💻 Portfolio :
+ </br>
+ <a href="https://rahulavaghan.vercel.app/" ><img width="200" height="187" style="max-width: 100%;border-radius: 5px;padding-left: 100px;" src="./preview_portpolio.png" /></a>
+ 
+ </br>
 
  📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/rahulavaghan)
  
