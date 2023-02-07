@@ -54,4 +54,4 @@ https://link.springer.com/chapter/10.1007/978-3-319-16634-6_29
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=rahul-avaghan&theme=monokai&margin-w=15&margin-h=15&&no-frame=true&row=1)]()
 
-![Metrics](https://metrics.lecoq.io/insights/rahul-avaghan)
+![Metrics](https://metrics.lecoq.io/rahul-avaghan)
