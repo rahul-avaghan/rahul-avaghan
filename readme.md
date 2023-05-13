@@ -13,8 +13,9 @@
  
  👨🏽‍💻 Portfolio :
  </br>
- <a href="https://rahulavaghan.vercel.app/" ><img width="200" height="187" style="max-width: 100%;border-radius: 5px;padding-left: 100px;" src="./preview_portpolio.png" /></a>
+ <a href="https://avaghan.dev/" ><img width="200" height="187" style="max-width: 100%;border-radius: 5px;padding-left: 100px;" src="./preview_portpolio.png" /></a>
  
+ [Website](https://avaghan.dev)
  </br>
 
  📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/rahulavaghan)
