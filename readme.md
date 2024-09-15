@@ -5,7 +5,7 @@
 <div style="display:flex">
 <div>
 
- 🔭 I’m currently working on Nodejs, Typescript, React, Java
+ 🔭 I’m currently working on Pytorch, SLMs, Fine Tuning LLMs,  Nodejs, Typescript, React, Java
  
  🌱 I’m currently learning `Deep learning`
  
